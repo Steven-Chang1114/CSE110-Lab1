@@ -40,7 +40,7 @@ And I will rank it based on my preference as
 
 # Meme
 Here's my favourite meme pages where I get my inspiration from [Click here](https://www.instagram.com/meme_coding/?hl=en)
-[This will go back to my other interest section](#interest)
+####This will go back to my other [interest section](https://github.com/Steven-Chang1114/CSE110-Lab1/blob/vscode-checkout/index.md#interest)
 
 # Task
 [This will go to my another README file in this lab](/README.md)
