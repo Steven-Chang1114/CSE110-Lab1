@@ -7,9 +7,9 @@
 
 # Interest
 As a programmer, I'm also taking
-> Computer System
-> Digital System Design
-> Machine Learning
+> Computer System\
+> Digital System Design\
+> Machine Learning\
 > Databases
 
 Here are the programming languages I know:
@@ -22,12 +22,12 @@ std::cout << "Hello World";
 disp('Hello World');
 """
 which is
-- ###### JavaScript
-- ###### Java
-- ###### Python
-- ###### C
-- ###### C++
-- ###### Matlab
+- JavaScript
+- Java
+- Python
+- C
+- C++
+- Matlab
 
 And I will rank it based on my preference as
 1. Python
