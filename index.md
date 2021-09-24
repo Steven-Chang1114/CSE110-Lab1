@@ -1,8 +1,8 @@
 ![My profile picture](/picture.jpeg)
 
 # Profile
-## My name is Steven
-## I'm a Junior *Computer Engineering* student in UCSD
+### My name is Steven
+### I'm a Junior *Computer Engineering* student in UCSD
 ### I love playing **video games**, **soccer** and **skateboarding** during my spare time
 
 # Interest
@@ -22,12 +22,12 @@ std::cout << "Hello World";
 disp('Hello World');
 """
 which is
-- JavaScript
-- Java
-- Python
-- C
-- C++
-- Matlab
+- ###### JavaScript
+- ###### Java
+- ###### Python
+- ###### C
+- ###### C++
+- ###### Matlab
 
 And I will rank it based on my preference as
 1. Python
