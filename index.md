@@ -13,14 +13,15 @@ As a programmer, I'm also taking
 > Databases
 
 Here are the programming languages I know:
-"""
+```
 console.log("Hello World");
 System.out.println("Hello World");
 print("Hello World")
 printf("Hello World");
 std::cout << "Hello World";
 disp('Hello World');
-"""
+```
+
 which is
 - JavaScript
 - Java
@@ -39,4 +40,20 @@ And I will rank it based on my preference as
 
 # Meme
 Here's my favourite meme pages where I get my inspiration from [Click here](https://www.instagram.com/meme_coding/?hl=en)
+[This will go back to my other interest section](#interest)
+
+# Task
+[This will go to my another README file in this lab](/README.md)
+
+### Here is for keeping track how many elements that I have used to complete this lab
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links
+- [x] Ordered and Unordered Lists
+- [ ] Task lists
+
 
